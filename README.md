@@ -14,14 +14,15 @@ py.test plugin for checking cyclomatic complexity of python source with 'mccabe'
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pytest-mccabe-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pytest-mccabe-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pytest-mccabe-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pytest-mccabe-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pytest-mccabe-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pytest-mccabe-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pytest-mccabe-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pytest-mccabe-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-mccabe/badges/version.svg)](https://anaconda.org/conda-forge/pytest-mccabe)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-mccabe/badges/downloads.svg)](https://anaconda.org/conda-forge/pytest-mccabe)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pytest--mccabe-green.svg)](https://anaconda.org/conda-forge/pytest-mccabe) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pytest-mccabe.svg)](https://anaconda.org/conda-forge/pytest-mccabe) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pytest-mccabe.svg)](https://anaconda.org/conda-forge/pytest-mccabe) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pytest-mccabe.svg)](https://anaconda.org/conda-forge/pytest-mccabe) |
 
 Installing pytest-mccabe
 ========================
