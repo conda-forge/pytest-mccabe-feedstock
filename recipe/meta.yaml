@@ -1,8 +1,8 @@
 {% set name = "pytest-mccabe" %}
-{% set version = "0.1" %}
+{% set version = "1.0" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "f68af99861c06a27d45ee7682071a201fe0a7785f2ec0a96080022db5ca62012" %}
+{% set hash_value = "02c9c1e9d02f0522d659809e1e7bf74e3e8fa7fb74eb55f177afb4701c8d9a4c" %}
 
 package:
   name: '{{ name|lower }}'
@@ -15,7 +15,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
